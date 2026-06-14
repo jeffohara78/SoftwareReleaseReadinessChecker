@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareReleaseReadinessChecker", "SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker.csproj", "{9486BAD8-433C-496F-8808-8A7F581CBE37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9486BAD8-433C-496F-8808-8A7F581CBE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9486BAD8-433C-496F-8808-8A7F581CBE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9486BAD8-433C-496F-8808-8A7F581CBE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9486BAD8-433C-496F-8808-8A7F581CBE37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88328508-D2D5-4B05-B2A3-1D6D5E4DF2F9}
+	EndGlobalSection
+EndGlobal

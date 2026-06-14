@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\obj\Debug\net8.0\SoftwareReleaseReadinessChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\obj\Debug\net8.0\SoftwareReleaseReadinessChecker.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\obj\Debug\net8.0\SoftwareReleaseReadinessChecker.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\obj\Debug\net8.0\SoftwareReleaseReadinessChecker.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\bin\Debug\net8.0\SoftwareReleaseReadinessChecker.exe
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\bin\Debug\net8.0\SoftwareReleaseReadinessChecker.deps.json
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\bin\Debug\net8.0\SoftwareReleaseReadinessChecker.runtimeconfig.json
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\bin\Debug\net8.0\SoftwareReleaseReadinessChecker.dll
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\bin\Debug\net8.0\SoftwareReleaseReadinessChecker.pdb
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\obj\Debug\net8.0\SoftwareReleaseReadinessChecker.dll
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\obj\Debug\net8.0\refint\SoftwareReleaseReadinessChecker.dll
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\obj\Debug\net8.0\SoftwareReleaseReadinessChecker.pdb
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\obj\Debug\net8.0\SoftwareReleaseReadinessChecker.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\SoftwareReleaseReadinessChecker\SoftwareReleaseReadinessChecker\obj\Debug\net8.0\ref\SoftwareReleaseReadinessChecker.dll
